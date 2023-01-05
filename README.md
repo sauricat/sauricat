@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/they. Other IDs: Shu Lin, Fūrin et Asabikeshiinh.
 - 🔭 I’m a PhD student in continental philosophy. 
 - 🌱 I’m currently focusing on phenomenology, ethics, gender theory, and transcultural philosophy.
 - 👯 I’m working for [One Among Us](https://one-among.us), a memorial website for transgender people and their allies (now mainly written in Chinese). Please provide us with more items!

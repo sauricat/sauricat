@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 😄 Pronouns: she/they. Other IDs: Shu Lin, Fūrin et Asabikeshiinh.
+- 😄 Pronouns: she/they. Other IDs: Shu Lin, 北雁清凉.
 - 🔭 I’m a PhD student in continental philosophy. 
 - 🌱 I’m currently focusing on phenomenology, ethics, gender theory, and transcultural philosophy.
-- 👯 I’m working for [One Among Us](https://one-among.us), a memorial website for transgender people and their allies (now mainly written in Chinese). Please provide us with more items!
+- 👯 I’m working for [One Among Us](https://one-among.us), an NGO and community for East Asian/Canadian transgender people. Please provide us with more items!
 - ❄️️ I use NixOS! In [this repo](https://github.com/sauricat/flakes) are my configuration files. I’m trying to pack things, but it’s soooo hard for me now (🤔).
 - 💬 My languages: Chinese (Wu & Mandarin), English, Japanese.
-- 📫 How to reach me: [Blog](https://shu-l.in), [Twitter](https://twitter.com/sauricat). Sorry for both mainly in Chinese. 
+- 📫 How to reach me: [Blog](https://sauri.ca), [Twitter](https://twitter.com/sauricat). Sorry for both mainly in Chinese. 
 
 Things I'm skilled or interested in:
 

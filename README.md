@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 Pronouns: she/they. Other IDs: Shu Lin, 北雁清凉.
+- 😄 Pronouns: she/they. Also call me Shu.
 - 🔭 I’m a PhD student in continental philosophy. 
 - 🌱 I’m currently focusing on phenomenology, ethics, gender theory, and transcultural philosophy.
 - 👯 I’m working for [One Among Us](https://one-among.us), an NGO and community for East Asian/Canadian transgender people. Please provide us with more items!

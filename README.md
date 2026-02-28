@@ -6,7 +6,7 @@
 - 👯 I’m working for [One Among Us](https://one-among.us), an NGO and community for East Asian/Canadian transgender people. Please provide us with more items!
 - ❄️️ I use NixOS! In [this repo](https://github.com/sauricat/flakes) are my configuration files. I’m trying to pack things, but it’s soooo hard for me now (🤔).
 - 💬 My languages: Chinese (Wu & Mandarin), English, Japanese.
-- 📫 How to reach me: [Blog](https://sauri.ca), [Twitter](https://twitter.com/sauricat). Sorry for both mainly in Chinese. 
+- 📫 How to reach me: [Blog](https://sauri.ca), [Twitter](https://twitter.com/sauricat). Both mainly in Chinese. 
 
 Things I'm skilled or interested in:
 
